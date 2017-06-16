@@ -14,4 +14,4 @@
 4. <b>Merges the training and the test sets to create one data set using `rbind()` function.</b>
 5. <b>Extracts only the measurements on the mean and standard deviation for each measurement
 using the `grep()` function.</b>
-6. <b>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject using the `group_by()` , `summarize_each()`, and `write_table()` functions.<\b>
+6. <b>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject using the `group_by()` , `summarize_each()`, and `write_table()` functions.</b>
