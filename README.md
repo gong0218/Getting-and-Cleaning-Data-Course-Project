@@ -1,6 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-## 
+The R scripts load Human Activity Recognition Using Smartphones Dataset
+and create tidy data as below;
 
 1. <b>Read features/activity_label data.</b>
 2. <b>Read test data set.</b>
