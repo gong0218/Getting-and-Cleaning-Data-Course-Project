@@ -7,6 +7,7 @@
  "subject"  : subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
  and following variables:
+ 
  *Extracts only the measurements on the mean and standard deviation for eachfrom all features.
   
  * "tBodyAcc-mean()-X"          
