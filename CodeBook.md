@@ -3,10 +3,12 @@
 
 ## Variables
 
- *"label"    : 6 activities label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)             
- "subject"  : subject who performed the activity for each window sample. Its range is from 1 to 30. 
-
- and following variables:
+ * "label"    : 6 activities label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+ (factor type)            
+ * "subject"  : subject who performed the activity for each window sample. Its range is from 1 to 30. 
+ (integer type)            
+ 
+ and following variables(numeric type):
  
  *Extracts only the measurements on the mean and standard deviation for eachfrom all features.
   
