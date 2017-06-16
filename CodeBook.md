@@ -1,12 +1,13 @@
-##Variables
 
-describes the variables, the data, and any transformations or work that you performed to clean up the data
+## "tidydata.txt" shows the average of each variable for each activity and each subject.
+
+## Variables
 
  "label"    : 6 activities label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)             
  "subject"  : subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
  and following variables:
- * Extracts only the measurements on the mean and standard deviation for eachfrom all features.
+ (Extracts only the measurements on the mean and standard deviation for eachfrom all features.)
   
  "tBodyAcc-mean()-X"          
  "tBodyAcc-mean()-Y"           "tBodyAcc-mean()-Z"           "tBodyAcc-std()-X"           
