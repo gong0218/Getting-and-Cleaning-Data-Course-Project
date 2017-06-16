@@ -1,7 +1,6 @@
+##Variables
+
 describes the variables, the data, and any transformations or work that you performed to clean up the data
-
-
-Variables
 
  "label"    : 6 activities label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)             
  "subject"  : subject who performed the activity for each window sample. Its range is from 1 to 30. 
